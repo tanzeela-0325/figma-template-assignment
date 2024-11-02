@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header{
+  display: flex;
+  justify-content: space-around;
+  width: 1440;
+  height: 102;
+  padding-top: 10px;
+  
+
+}
+
+.header-button{
+  display: flex;
+  gap: 42px;
+  color: 333333;
+}
+
+
+
+
+
+  
+   
